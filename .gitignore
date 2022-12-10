@@ -1,6 +1,6 @@
 node_modules
 
-uncaughtExceptions.log
+./uncaughtExceptions.log
 
 
-logfile.log 
+./logfile.log 
