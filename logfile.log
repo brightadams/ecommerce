@@ -1,0 +1,366 @@
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-11-30T22:10:19.493Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-11-30T22:10:19.526Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-11-30T22:10:37.363Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-11-30T22:10:37.411Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-11-30T22:10:54.336Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-11-30T22:10:54.377Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-01T16:07:47.421Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-01T16:07:47.484Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-01T16:16:33.277Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-01T16:16:33.320Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-01T16:18:01.546Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-01T16:18:01.603Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-01T16:22:05.207Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-01T16:22:05.258Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T14:52:11.677Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T14:52:11.739Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T15:23:40.636Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T15:23:40.692Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T15:24:29.350Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T15:24:29.409Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T15:30:03.872Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T15:30:03.958Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T15:30:43.421Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T15:30:43.537Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T15:32:19.423Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T15:32:19.619Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T15:51:07.986Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T15:51:08.379Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T15:51:51.666Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T15:51:51.921Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T15:55:35.695Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T15:55:35.769Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T15:56:51.758Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T15:56:51.873Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T15:57:43.396Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T15:57:43.526Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T15:58:12.001Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T15:58:12.143Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T15:58:35.016Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T15:58:35.208Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T16:02:13.265Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T16:02:13.366Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T16:08:07.363Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T16:08:07.445Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T16:11:29.818Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T16:11:29.891Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T16:11:54.598Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T16:11:54.672Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-03T17:58:46.298Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce...","timestamp":"2022-12-03T17:58:46.356Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T15:22:20.446Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T15:22:22.257Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T15:24:39.517Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T15:24:39.684Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T15:29:29.213Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T15:29:29.331Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T15:33:26.263Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T15:33:26.299Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T15:35:56.844Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T15:35:56.888Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T15:36:08.528Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T15:36:08.572Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T15:36:34.428Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T15:36:34.463Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T15:36:45.732Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T15:36:45.773Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T15:37:00.621Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T15:37:00.667Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T15:37:22.728Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T15:37:22.777Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T15:38:23.142Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T15:38:23.179Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:06:22.155Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:06:22.328Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:06:41.154Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:06:41.290Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:06:41.920Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:06:42.090Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:08:08.057Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:08:08.165Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:08:08.818Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:08:08.905Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:11:11.608Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:11:11.732Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:11:11.646Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:11:11.691Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:11:49.334Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:11:49.322Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:11:49.365Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:11:49.471Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:14:17.498Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:14:17.648Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:14:17.654Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:14:17.690Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:20:38.358Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:20:38.521Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:20:39.118Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:20:39.237Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:22:32.679Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:22:32.865Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:22:33.047Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:22:33.104Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:23:17.594Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:23:17.671Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:23:17.734Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:23:17.822Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:23:45.932Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:23:46.117Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:23:59.219Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:23:59.351Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:24:48.798Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:24:48.879Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:24:49.783Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:24:49.890Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:25:19.774Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:25:19.923Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:25:19.962Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:25:20.168Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:26:11.944Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:26:11.924Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:26:11.986Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:26:12.065Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:27:10.766Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:27:10.794Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:27:10.797Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:27:10.942Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:31:58.406Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:31:58.470Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:59:12.556Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:59:12.618Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:59:49.445Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:59:49.527Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T16:59:49.816Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T16:59:49.832Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T17:01:55.840Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T17:01:56.161Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T17:01:56.261Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T17:01:56.306Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T17:02:16.475Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T17:02:16.556Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T17:02:17.168Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T17:02:17.286Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T17:03:09.988Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T17:03:10.111Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T17:03:10.510Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T17:03:10.639Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T17:08:20.760Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T17:08:20.888Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T17:08:20.882Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T17:08:20.931Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T17:09:08.955Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T17:09:09.037Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T17:09:09.459Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T17:09:09.594Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T17:13:53.808Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T17:13:53.897Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T17:13:54.305Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T17:13:54.407Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T17:43:09.438Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T17:43:09.564Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T17:43:09.944Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T17:43:09.998Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T17:44:41.170Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T17:44:41.273Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T17:44:41.456Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T17:44:41.575Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T18:01:33.354Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T18:01:33.410Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T18:01:33.412Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T18:01:33.427Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T18:05:34.447Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T18:05:34.492Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T18:05:34.697Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T18:05:34.754Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T18:38:28.820Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T18:38:28.909Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T18:40:27.863Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T18:40:27.944Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T18:40:28.515Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T18:40:28.585Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T19:36:36.057Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T19:36:36.249Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T19:36:37.021Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T19:36:37.175Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T19:58:23.810Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T19:58:24.009Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T19:58:24.020Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T19:58:24.250Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:01:41.287Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:01:41.416Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:01:42.150Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:01:42.444Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:02:30.220Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:02:30.420Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:02:31.351Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:02:31.465Z"}
+{"message":"Product validation failed: categoryId: Path `categoryId` is required., description: Path `description` is required., price: Path `price` is required.","stack":"ValidationError: Product validation failed: categoryId: Path `categoryId` is required., description: Path `description` is required., price: Path `price` is required.\n    at model.Object.<anonymous>.Document.invalidate (C:\\Users\\BRIGHT\\Desktop\\PRO\\portfolio\\ecommerce\\node_modules\\mongoose\\lib\\document.js:2782:32)\n    at C:\\Users\\BRIGHT\\Desktop\\PRO\\portfolio\\ecommerce\\node_modules\\mongoose\\lib\\document.js:2574:17\n    at C:\\Users\\BRIGHT\\Desktop\\PRO\\portfolio\\ecommerce\\node_modules\\mongoose\\lib\\schematype.js:1273:9\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","errors":{"categoryId":{"properties":{"message":"Path `categoryId` is required.","type":"required","path":"categoryId"},"kind":"required","path":"categoryId"},"description":{"properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"price":{"properties":{"message":"Path `price` is required.","type":"required","path":"price"},"kind":"required","path":"price"}},"_message":"Product validation failed","level":"error","timestamp":"2022-12-06T20:02:32.073Z"}
+{"message":"Product validation failed: categoryId: Path `categoryId` is required., description: Path `description` is required., price: Path `price` is required.","stack":"ValidationError: Product validation failed: categoryId: Path `categoryId` is required., description: Path `description` is required., price: Path `price` is required.\n    at model.Object.<anonymous>.Document.invalidate (C:\\Users\\BRIGHT\\Desktop\\PRO\\portfolio\\ecommerce\\node_modules\\mongoose\\lib\\document.js:2782:32)\n    at C:\\Users\\BRIGHT\\Desktop\\PRO\\portfolio\\ecommerce\\node_modules\\mongoose\\lib\\document.js:2574:17\n    at C:\\Users\\BRIGHT\\Desktop\\PRO\\portfolio\\ecommerce\\node_modules\\mongoose\\lib\\schematype.js:1273:9\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","errors":{"categoryId":{"properties":{"message":"Path `categoryId` is required.","type":"required","path":"categoryId"},"kind":"required","path":"categoryId"},"description":{"properties":{"message":"Path `description` is required.","type":"required","path":"description"},"kind":"required","path":"description"},"price":{"properties":{"message":"Path `price` is required.","type":"required","path":"price"},"kind":"required","path":"price"}},"_message":"Product validation failed","level":"error","timestamp":"2022-12-06T20:02:32.122Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:03:35.639Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:03:35.805Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:03:35.902Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:03:35.950Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:03:57.988Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:03:58.142Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:03:58.137Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:03:58.167Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:05:35.648Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:05:35.757Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:05:35.786Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:05:35.821Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:08:30.798Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:08:30.918Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:08:30.940Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:08:30.974Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:22:05.341Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:22:05.417Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:22:05.478Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:22:05.505Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:22:54.727Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:22:54.832Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:22:55.211Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:22:55.322Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:24:04.872Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:24:05.166Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:24:05.582Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:24:05.714Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:33:18.563Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:33:18.774Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:33:18.826Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:33:18.855Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:34:32.150Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:34:32.222Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:34:32.997Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:34:33.038Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:35:27.578Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:35:27.653Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:35:28.363Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:35:28.413Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:35:46.809Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:35:46.922Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:35:47.643Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:35:47.701Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:40:05.573Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:40:05.762Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:40:07.063Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:40:07.179Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:40:48.619Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:40:48.746Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T20:40:49.028Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T20:40:49.138Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:07:13.127Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:07:13.369Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:07:13.373Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:07:13.388Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:12:03.496Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:12:03.552Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:12:04.088Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:12:04.135Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:12:55.350Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:12:55.401Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:12:55.755Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:12:55.814Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:13:10.750Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:13:10.810Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:13:11.380Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:13:11.429Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:13:35.135Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:13:35.215Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:13:35.329Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:13:35.361Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:13:56.065Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:13:56.108Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:13:56.209Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:13:56.269Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:15:50.309Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:15:50.360Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:15:50.397Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:15:50.415Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:16:15.990Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:16:16.032Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:16:16.039Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:16:16.053Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:17:02.934Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:17:02.988Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:17:03.450Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:17:03.503Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:18:11.053Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:18:11.111Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:18:11.322Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:18:11.381Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:18:23.558Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:18:23.613Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:18:23.683Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:18:23.703Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:19:51.698Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:19:51.748Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:19:51.977Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:19:52.031Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:24:50.546Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:24:50.607Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:24:50.780Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:24:50.847Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:26:47.631Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:26:47.679Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:26:47.973Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:26:48.069Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:28:36.480Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:28:36.529Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:28:36.548Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:28:36.559Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:30:10.503Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:30:10.551Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:30:10.737Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:30:10.792Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:44:48.520Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:44:48.572Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:44:48.902Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:44:48.941Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:45:40.645Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:45:40.712Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:45:41.200Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:45:41.265Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:47:40.064Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:47:40.120Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:47:40.441Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:47:40.510Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:50:24.565Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:50:24.639Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:50:25.067Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:50:25.126Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:52:41.035Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:52:41.083Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T21:52:41.263Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T21:52:41.330Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T22:14:14.617Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T22:14:14.675Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T22:14:15.465Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T22:14:15.525Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T22:14:34.931Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T22:14:34.993Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T22:14:35.537Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T22:14:35.590Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T22:18:48.896Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T22:18:48.946Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T22:18:49.446Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T22:18:49.492Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T22:19:23.422Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T22:19:23.538Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T22:19:24.387Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T22:19:24.460Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T22:20:08.513Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T22:20:08.575Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T22:20:09.431Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T22:20:09.481Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T22:20:40.193Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T22:20:40.292Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T22:20:40.313Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T22:20:40.339Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T22:33:50.832Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T22:33:50.884Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T22:33:51.065Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T22:33:51.088Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T22:34:35.434Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T22:34:35.510Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-12-06T22:34:35.905Z"}
+{"level":"info","message":"Connected to mongodb://localhost/ecommerce_tests...","timestamp":"2022-12-06T22:34:35.981Z"}
